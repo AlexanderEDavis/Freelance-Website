@@ -298,7 +298,7 @@ body, p {
 
 p {
 	color: #777;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 	font-weight: 400;
 	letter-spacing: 0;
@@ -582,7 +582,7 @@ ul {
 .page-title-wrapper h1  span {
 	color: #888;
 	font-size: 24px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 }
 .page-subtitle {
@@ -883,7 +883,7 @@ audio {
 }
 .post-showing-type1 .post-title-single {
 	font-size: 42px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	line-height: 1.2;
 }
 
@@ -1225,7 +1225,7 @@ audio {
 
 .standard-post-view .post-standard-bottom-wrapper p {
 	color: #777;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 	font-weight: 400;
 	letter-spacing: 0;
@@ -1285,7 +1285,7 @@ a.standard-read-more {
 .related-item-details a {
 	color: #777;
 	font-size: 18px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 }
 .related-item-details a:hover {
 	color: #000;
@@ -1339,7 +1339,7 @@ a.standard-read-more {
 }
 
 .post-showing-type1 .quote .quote-content, .post-showing-type1 .quote .quote-content p {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-style: italic;
 	font-size: 42px;
 	color: #000;
@@ -1373,7 +1373,7 @@ a.standard-read-more {
 	box-shadow: 1px 1px 1px 0px rgba(50, 50, 50, 0.1);
 }
 .twitter-post-type p.tweet_text {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-style: italic;
 	font-size: 42px;
 	line-height: 1.4;
@@ -1920,7 +1920,7 @@ a.comment-edit-link {
 
 #respond h3 {
 	/*color: #000;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 38px;
 	-webkit-font-smoothing: antialiased;
 	font-weight: 300;*/
@@ -2361,7 +2361,7 @@ div.wpcf7-mail-sent-ng {
     margin-right: 10px;
     line-height: 1;
 	color: #000;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 }
 .vc_dropcap .dropcap.type1, .vc_dropcap .dropcap.type1 span {
@@ -2425,7 +2425,7 @@ div.wpcf7-mail-sent-ng {
 }
 
 .testimonial-content {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 32px;
 	font-weight: 400;
 	color: #777;
@@ -2898,7 +2898,7 @@ h2.wpb_heading {
 
 .vc_welcome,
 .vc_welcome p {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 32px;
 	font-weight: 400;
 	color: #777;
@@ -2939,7 +2939,7 @@ h2.wpb_heading {
 
 
 h1.team-member-title {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 28px;
 	font-weight: 400;
 	color: #000;
@@ -2961,7 +2961,7 @@ h2.team-member-position {
 
 .team-member-desc {
 	padding: 10px 10px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
 	color: #666;
@@ -3035,7 +3035,7 @@ ul.team-member-socials li a:hover {
 	overflow: hidden;
 }
 .services-desc {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 32px;
 	font-weight: 400;
 	color: #777;
@@ -3045,7 +3045,7 @@ ul.team-member-socials li a:hover {
 
 .single-service-inside h2 {
 	color: #000;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 28px;
 	font-weight: 400;
 }
@@ -3415,7 +3415,7 @@ div.wpb_content_element.vc_portfolio_grid { margin-top: 30px; }
 }
 .vc_portfolio_overview p {
 	color: #777;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 	font-weight: 400;
 	letter-spacing: 0;
@@ -3439,7 +3439,7 @@ div.wpb_content_element.vc_portfolio_grid { margin-top: 30px; }
 }
 .single-portfolio-detail-value {
 	color: #777;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 }
 
@@ -3525,7 +3525,7 @@ a.portfolio_overview_url {
 .contact-info-content {
 	margin-left: 30px;
 	color: #777;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
 	font-weight: 400;
 	margin-top: -5px;
@@ -3686,7 +3686,7 @@ a.portfolio_overview_url {
 .top-commented-url {
 	color: #777;
 	font-size: 14px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .top-commented-date {
@@ -3738,7 +3738,7 @@ a.portfolio_overview_url {
 .top-rated-url {
 	color: #777;
 	font-size: 14px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 /* flickr */
@@ -3931,7 +3931,7 @@ a.portfolio_overview_url {
 }
 .widget ul li a {
 	color: #777;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size:14px;
 	padding: 5px;
 	-moz-transition: 0.5s;
@@ -4099,7 +4099,7 @@ ul#recentcomments li a:hover {
 
 .textwidget,
 .textwidget p {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
    	font-size: 14px;
    	color: #777;
    	line-height: 1.8;
@@ -4139,7 +4139,7 @@ ul#recentcomments li a:hover {
 .latest-post-widget-details a {
 	color: #777;
 	font-size: 14px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 }
 .latest-post-widget-details a:hover {
 	color: #000;
@@ -4238,7 +4238,7 @@ input, textarea {
 .single-search-item-details a {
 	color: #777;
 	font-size: 24px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 }
 .single-search-item-details a:hover {
 	color: #000;
@@ -4343,7 +4343,7 @@ p.author-description {
 
 .search-title1 {
 	color: #000;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	font-size: 30px;
 	-webkit-font-smoothing: antialiased;
@@ -4487,7 +4487,7 @@ small.vc_label {
 	color: #fff;
 	font-size: 18px;
 	padding: 15px 0 15px 30px !important;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -4508,7 +4508,7 @@ small.vc_label {
 
 .about-name-wrap h1 {
 	font-size: 60px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .about-name-wrap .name-image {
