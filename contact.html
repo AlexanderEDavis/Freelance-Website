@@ -54,7 +54,7 @@
                             <li class="menu-item menu-item-has-children"><a href="about.html">About Me</a>
                               <ul class="sub-menu">
                                 <li class="menu-item"><a href="CV.html">Curriculum Vitae</a></li>
-                                <li class="menu-item"><a href="Accreditations.html">Personal Accreditations</a></li>
+                                <li class="menu-item"><a href="Accreditations.html">Professional Accreditations</a></li>
                                 <li class="menu-item"><a href="PDP.html">Personal Development</a></li>
                               </ul>
                             </li>
@@ -80,7 +80,7 @@
                   <li class="menu-item"><a href="about.html">About Me</a>
                     <ul class="sub-menu">
                       <li class="menu-item"><a href="CV.html">Curriculum Vitae</a></li>
-                      <li class="menu-item"><a href="Accreditations.html">Personal Accreditations</a></li>
+                      <li class="menu-item"><a href="Accreditations.html">Professional Accreditations</a></li>
                       <li class="menu-item"><a href="PDP.html">Personal Development</a></li>
                     </ul>
                   </li>
@@ -98,7 +98,7 @@
         <div class="container-wrapper">
             <div class="page-title-wrapper">
                 <div class="center">
-                    <h1><span>04</span> Contact</h1>
+                    <h1>Contact</h1>
                 </div>
             </div>
             <div class="clear"></div>
@@ -111,10 +111,6 @@
                         <div class="vc_row wpb_row vc_row-fluid fullwidth">
                             <div class="wpb_column vc_column_container vc_col-sm-12">
                                 <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper">
-
-                                        <div id="map_canvas" class="mapStyleClass" style="height: 400px;"></div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -127,6 +123,49 @@
                                                 <div class="vc_portfolio.html.html_welcome">Hi and welcome to our contact us page. Please feel free to contact us by our contact form or just call us. We will be very happy.</div>
                                                 <div role="form" class="wpcf7" id="wpcf7-f4-p10-o1" lang="en-US" dir="ltr">
                                                     <div class="screen-reader-response"></div>
+                                                    <div id="message"></div>
+
+                                                    <form method="post" action="classes/contact.php" name="contactform" id="contactform">
+
+                                                    <fieldset>
+
+                                                    <legend>Ready to start your next project with me? That's great! Send me an message and I will get back to you as soon as possible!</legend>
+
+                                                    <label for="name" accesskey="U"><span class="required">*</span> Your Name</label>
+                                                    <input name="name" type="text" id="name" size="30" value="" />
+
+                                                    <br />
+                                                    <label for="email" accesskey="E"><span class="required">*</span> Email</label>
+                                                    <input name="email" type="text" id="email" size="30" value="" />
+
+                                                    <br />
+                                                    <label for="phone" accesskey="P"><span class="required">*</span> Phone</label>
+                                                    <input name="phone" type="text" id="phone" size="30" value="" />
+
+                                                    <br />
+                                                    <label for="subject" accesskey="S">Subject</label>
+                                                    <select name="subject" id="subject">
+                                                      <option value="Support">Support</option>
+                                                      <option value="a Sale">Sales</option>
+                                                      <option value="a Bug fix">Report a bug</option>
+                                                    </select>
+
+                                                    <br />
+                                                    <label for="comments" accesskey="C"><span class="required">*</span> Your comments</label>
+                                                    <textarea name="comments" cols="40" rows="3" id="comments" style="width: 350px;"></textarea>
+
+                                                    <br />
+                                                    <br />
+                                                    <br />
+                                                    <br /><br />
+                                                    <p><span class="required">*</span> Are you human?</p>
+                                                          <div class="g-recaptcha" data-sitekey="6LdTchYUAAAAABUo3QD6Cx1Z6N6lLIq_bGNr9wha"></div>
+                                                    <br /><br />
+                                                    <input type="submit" class="submit" id="submit" value="Submit" />
+
+                                                    </fieldset>
+
+                                                    </form>
                                                     <form id="contact-form" action="#">
 
                                                         <p>Name *
