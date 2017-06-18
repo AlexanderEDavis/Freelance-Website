@@ -5,7 +5,7 @@ require('recaptcha/src/autoload.php');
 // configure
 $from = 'Contact Forms <forms@alexanderdavis.tech>';
 $sendTo = 'contact@alexanderdavis.tech';
-$subject = 'New message from contact form';
+$subject = 'New Message From Contact Form';
 $fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message'); // array variable name => Text to appear in the email
 $okMessage = 'Contact form successfully submitted. Thank you, I will get back to you soon!';
 $errorMessage = 'There was an error while submitting the form. Please try again later';
